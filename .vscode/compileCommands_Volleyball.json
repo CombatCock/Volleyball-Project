@@ -1,0 +1,274 @@
+[
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\BallBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\BallBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\BallSpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\BallSpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\ClassicGamemode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\ClassicGamemode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\PlayerControllerMacroLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\PlayerControllerMacroLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\PlayerList.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\PlayerList.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\StandardBall.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\StandardBall.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\TP_ThirdPerson\\TP_ThirdPerson.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\TP_ThirdPerson\\TP_ThirdPersonCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\TP_ThirdPerson\\TP_ThirdPersonCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\TP_ThirdPerson\\TP_ThirdPersonGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\TP_ThirdPerson\\TP_ThirdPersonGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\Volleyball.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\Volleyball.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\Volleyball.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballGameState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballGameState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballGamemode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballGamemode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballHUD.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballHUD.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballPlayerState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\Source\\Volleyball\\VolleyballPlayerState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Combat Cock\\Documents\\Unreal Projects\\Volleyball\\.vscode\\compileCommands_Volleyball\\Volleyball.250.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
